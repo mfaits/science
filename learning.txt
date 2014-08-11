@@ -1,1 +1,2 @@
 I am making files to learn git
+it seems like it is going well
