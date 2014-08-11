@@ -1,2 +1,1 @@
-a^2 = sqrt(b^2 + c^2)
-Some change
+q^2 = sqrt(r^2 + x^2)
